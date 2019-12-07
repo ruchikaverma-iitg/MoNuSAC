@@ -4,5 +4,5 @@ This repository contains my implementations of the algorithms which MoNuSAC part
 
 | **File name** | **Description** |
 | ------------- | ------------- |
-| [Mask_generation](https://github.com/ruchikaverma-iitg/MoNuSAC/blob/master/Mask_generation.ipynb) | Use H&E stained images along with associated xml files to generate binary masks of each annotated cell-type|
+| [Mask_generation](https://github.com/ruchikaverma-iitg/MoNuSAC/blob/master/Mask_generation.ipynb) | Use H&E stained images(.svs) along with associated xml files to generate binary masks of each annotated cell-type|
 | [Cell_counting](https://github.com/ruchikaverma-iitg/MoNuSAC/blob/master/Cell_counting.ipynb) | Script to count cells (by type) in each image and store in an excel file|
