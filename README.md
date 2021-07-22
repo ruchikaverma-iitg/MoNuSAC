@@ -1,5 +1,9 @@
 # [MoNuSAC grand-challenge](https://monusac-2020.grand-challenge.org/) organized at [ISBI 2020](http://2020.biomedicalimaging.org/challenges)
 
+Please cite the following paper if you use this repository-
+
+[Verma, Ruchika, et al. "MoNuSAC2020: A Multi-organ Nuclei Segmentation and Classification Challenge." IEEE Transactions on Medical Imaging (2021)](https://ieeexplore.ieee.org/abstract/document/9446924)
+
 This repository contains my implementations of the algorithms which MoNuSAC participants could use for data preparation to train their models at ISBI 2020
 
 | **File name** | **Description** |
