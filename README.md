@@ -1,4 +1,4 @@
-# [MoNuSAC grand-challenge](https://monusac-2020.grand-challenge.org/) organized at [ISBI 2020](http://2020.biomedicalimaging.org/challenges)
+# [MoNuSAC grand-challenge](https://monusac-2020.grand-challenge.org/) organized at [ISBI 2020](https://biomedicalimaging.org/2020/wp-content/uploads/static-html-to-wp/data/dff0d41695bbae509355435cd32ecf5d/challenges.html)
 
 Please cite the following paper if you use this repository-
 
