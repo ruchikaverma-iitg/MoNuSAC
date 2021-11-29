@@ -4,8 +4,6 @@ Please cite the following paper if you use this repository-
 
 [Verma, Ruchika, et al. "MoNuSAC2020: A Multi-organ Nuclei Segmentation and Classification Challenge." IEEE Transactions on Medical Imaging (2021)](https://ieeexplore.ieee.org/abstract/document/9446924)
 
-This repository contains my implementations of the algorithms which MoNuSAC participants could use for data preparation to train their models at ISBI 2020
-
 | **File name** | **Description** |
 | ------------------------ | ------------- |
 | [Cell_counting](https://github.com/ruchikaverma-iitg/MoNuSAC/blob/master/Cell_counting.ipynb) | Script to count cells (by type) in each image and store in an excel file|
